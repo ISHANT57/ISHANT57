@@ -1,6 +1,40 @@
 # 💫 About Me:
----<br><br>### **👋 Hi, I'm Ishant Bhoyar!**  <br> <br><br>📫 **Connect with Me:**  <br>🔗 [GitHub](https://github.com/ISHANT57) | 📧 [Email](ishantbhoyar59@gmail.com) |  <br><br>---<br><br>
 
+### 👋 Hi, I'm Ishant Bhoyar!
+💻 B.Tech in Computer Science | Aspiring Data Scientist | Passionate about AI & Mathematics
+
+🚀 Currently Working On:
+- Developing projects in Data Science, Machine Learning, and Web Development
+- Exploring Algorithm Analysis, Recursive Functions, and Object-Oriented Programming
+- Working on Linear Algebra and Mathematical Modeling
+
+🤝 Looking to Collaborate On:
+- Data Science and Machine Learning projects
+- Open-source contributions in Python and AI-related fields
+- Mathematical modeling and computational problem-solving
+
+💡 Looking for Help With:
+- Advanced concepts in AI and Deep Learning
+- Real-world applications of Data Science in industries
+- Optimization techniques for large-scale datasets
+
+📚 Currently Learning:
+- Advanced Python for Data Science
+- Machine Learning & Deep Learning frameworks
+- Mathematical Foundations for AI
+
+💬 Ask Me About:
+- Python, Data Science, and Web Development
+- Linear Algebra, Vector Spaces, and Computational Mathematics
+- AI, ML, and how to get started in Data Science
+
+🎯 Fun Fact:
+I love exploring new places, watching anime, and solving challenging math problems!
+
+📫 Connect with Me:
+🔗 GitHub | 📧 Email |
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BCKUoCjHb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishant_bhoyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishant-bhoyar-555413214/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1P6puvrXI) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ishant-Bhoyar-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ishantbhoyar7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Imps57) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ISHANT57) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishantbhoyar59@gmail.com) 
