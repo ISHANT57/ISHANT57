@@ -7,26 +7,11 @@
 - Developing projects in Data Science, Machine Learning, and Web Development
 - Exploring Algorithm Analysis, Recursive Functions, and Object-Oriented Programming
 - Working on Linear Algebra and Mathematical Modeling
-
-🤝 Looking to Collaborate On:
-- Data Science and Machine Learning projects
-- Open-source contributions in Python and AI-related fields
-- Mathematical modeling and computational problem-solving
-
-💡 Looking for Help With:
-- Advanced concepts in AI and Deep Learning
-- Real-world applications of Data Science in industries
-- Optimization techniques for large-scale datasets
-
+- 
 📚 Currently Learning:
 - Advanced Python for Data Science
 - Machine Learning & Deep Learning frameworks
 - Mathematical Foundations for AI
-
-💬 Ask Me About:
-- Python, Data Science, and Web Development
-- Linear Algebra, Vector Spaces, and Computational Mathematics
-- AI, ML, and how to get started in Data Science
 
 🎯 Fun Fact:
 I love exploring new places, watching anime, and solving challenging math problems!
