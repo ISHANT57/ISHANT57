@@ -1,46 +1,66 @@
-# 💫 About Me:
-
-### 👋 Hi, I'm Ishant Bhoyar!
-💻 B.Tech in Computer Science | Aspiring Data Scientist | Passionate about AI & Mathematics
-
-🚀 Currently Working On:
-- Developing projects in Data Science, Machine Learning, and Web Development
-- Exploring Algorithm Analysis, Recursive Functions, and Object-Oriented Programming
-- Working on Linear Algebra and Mathematical Modeling
-- 
-📚 Currently Learning:
-- Advanced Python for Data Science
-- Machine Learning & Deep Learning frameworks
-- Mathematical Foundations for AI
-
-🎯 Fun Fact:
-I love exploring new places, watching anime, and solving challenging math problems!
-
-📫 Connect with Me:
-🔗 GitHub | 📧 Email |
+<h1 align="center">Hi 👋, I'm Ishant Bhoyar</h1>
+<h3 align="center">B.Tech CSE | Aspiring Data Scientist | AI & Mathematics Enthusiast</h3>
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BCKUoCjHb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishant_bhoyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishant-bhoyar-555413214/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1P6puvrXI) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ishant-Bhoyar-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ishantbhoyar7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Imps57) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ISHANT57) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishantbhoyar59@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ISHANT57&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ISHANT57&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ISHANT57&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ISHANT57&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ISHANT57&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎓 B.Tech Computer Science Student  
+- 💡 Passionate about Data Science, AI, and Mathematics  
+- 🔭 Currently building ML, Web Dev & AI-based Projects  
+- 📘 Learning Deep Learning, OOP, and Linear Algebra  
+- ⚡ Fun Fact: I love anime and solving tricky math problems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ISHANT57&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/ISHANT57"><img src="https://img.shields.io/badge/GitHub-ISHANT57-black?style=for-the-badge&logo=github"></a>
+<a href="https://instagram.com/ishant_bhoyar"><img src="https://img.shields.io/badge/Instagram-@ishant__bhoyar-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://linkedin.com/in/ishant-bhoyar-555413214"><img src="https://img.shields.io/badge/LinkedIn-Ishant_Bhoyar-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ishantbhoyar59@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS  
+**Libraries & Tools:** NumPy, Pandas, Matplotlib  
+**Databases:** MySQL  
+**Platforms:** Git, GitHub  
+**Design Tools:** Canva, Photoshop  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ISHANT57&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANT57&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHANT57&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ISHANT57&theme=tokyonight">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Data Science & ML Projects  
+- 🔹 React + Flask Full-Stack Apps  
+- 🔹 Mathematical Modeling for AI  
+- 🔹 Startup Prototype: PlateCheck
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=ISHANT57&icon=0&color=0">
+</p>
