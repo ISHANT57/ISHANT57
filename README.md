@@ -26,9 +26,9 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS  
+**Languages:** Python, JavaScript, HTML, CSS, Java, C++, Express.js
 **Libraries & Tools:** NumPy, Pandas, Matplotlib  
-**Databases:** MySQL  
+**Databases:** MySQL, PostgreSQL
 **Platforms:** Git, GitHub  
 **Design Tools:** Canva, Photoshop  
 
