@@ -8,7 +8,13 @@
 <img src="https://komarev.com/ghpvc/?username=ISHANT57&color=00d9ff&style=flat-square&label=Profile+Views"/>
 
 </div>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ISHANT57&color=00d9ff&style=flat-square&label=Profile+Views"/>
+
+<img src="https://img.shields.io/badge/Views-2000%2B-blue?style=flat-square"/>
+
+</div>
 ---
 
 ## 💫 About Me
