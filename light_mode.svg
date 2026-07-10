@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+.cursor {fill: #1a7f37; animation: blink 1s steps(1) infinite;}
+@keyframes blink {50% {opacity: 0;}}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                 i1CLti</tspan>
+<tspan x="15" y="50">              i0888@GLtffLCLf;</tspan>
+<tspan x="15" y="70">            fG@@@@@8008@@8888@C</tspan>
+<tspan x="15" y="90">          10@@@@@@@@@@@@@@@@@@@GLi</tspan>
+<tspan x="15" y="110">          C@@@@@@@@@@@@@@@@@@@@8@L</tspan>
+<tspan x="15" y="130">          8@@@@@@@@@@@@@@@@@@@80@f</tspan>
+<tspan x="15" y="150">         t@@@@@@@@@@@@@@@@@@@@@0@C       f</tspan>
+<tspan x="15" y="170">         i@@@@@@@@@@880CLLLLGG@0         L</tspan>
+<tspan x="15" y="190">          8@@@@@@@0CLft11ii1Ct88         f</tspan>
+<tspan x="15" y="210">          0@@81itLLft111i;;;;1@C         t</tspan>
+<tspan x="15" y="230">          C@811fG8@@8GLLG800Ci0;         t</tspan>
+<tspan x="15" y="250">          181C@@@@@@@@@@@@@@@0G          1</tspan>
+<tspan x="15" y="270">          fGf;C@@@@@@@LG@@@@@@8          i</tspan>
+<tspan x="15" y="290">          GC   @@@@@@G ;@@@@@@0          ;</tspan>
+<tspan x="15" y="310">          GG   C00@@0;  G@@@@@L1i</tspan>
+<tspan x="15" y="330">    ;     tLf11iifCGCLf1t08GfLi1f</tspan>
+<tspan x="15" y="350">   itt1    L0fffftftf8@0t1t1;;iit</tspan>
+<tspan x="15" y="370">;tLLf  1;; iLLLLfC8CC880ffLtff</tspan>
+<tspan x="15" y="390">G 1C;;i1i i  fCCC@80CLLLG@8fLt</tspan>
+<tspan x="15" y="410">;  ;;C1 i  1 f0G08LfGGGLtC0fL   ;       i</tspan>
+<tspan x="15" y="430">;1iL1fL      18@8@GtfCLiiLG81           t;</tspan>
+<tspan x="15" y="450">  L1         ;C8@@80G0CLL88t      itf</tspan>
+<tspan x="15" y="470">             iC0@@@@@@@@@G        iti</tspan>
+<tspan x="15" y="490">;         t0@fL088@@@@@8Gt1       11</tspan>
+<tspan x="15" y="510">         i@@CtLG88@@@88Gf10811ii  ii;</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">ISHANT57@github</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">B.Tech CSE Student</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Ishant Bhoyar</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">ISHANT57 (he/him)</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Aspiring Data Scientist</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Lucknow, India</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Deep Learning, OOP, Linear Algebra</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">ML, Web Dev, AI Projects</tspan>
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, Java, JavaScript, C++</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">HTML, CSS</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">MySQL, PostgreSQL</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Git, GitHub, VS Code, Jupyter</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Data Science, AI, ML, Mathematics</tspan>
+<tspan x="390" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">ishant-portfolio-sxef.onrender.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">ishant-bhoyar-555413214</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Social</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">@ishant_bhoyar | YouTube @inps57</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Available on request</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">github.com/ISHANT57</tspan>
+<tspan x="390" y="470">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">--</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">--</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">--</tspan>
+<tspan x="390" y="510" class="key">while</tspan>(<tspan class="value">alive</tspan>) { <tspan class="addColor">learn</tspan>(); <tspan class="addColor">build</tspan>(); <tspan class="addColor">improve</tspan>(); }<tspan class="cursor"> █</tspan>
+</text>
+</svg>
