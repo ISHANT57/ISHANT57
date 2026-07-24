@@ -93,6 +93,14 @@ Projects: **Goqii Transcriber**, **CareNexus**
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHANT57&theme=tokyo-night&hide_border=true&area=true" alt="Ishant Bhoyar's contribution graph"/>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
