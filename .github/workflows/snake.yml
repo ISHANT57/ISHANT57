@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Grant the workflow token write access so it can push the output branch
+# Grant the workflow token write access so it can commit the SVGs
 permissions:
   contents: write
 
@@ -13,16 +13,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: ISHANT57
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            images/github-contribution-grid-snake.svg
+            images/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - name: Commit snake SVGs to main
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
+          commit_message: "Update contribution snake [skip ci]"
+          file_pattern: images/*.svg
+          branch: main
