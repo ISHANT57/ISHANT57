@@ -1,0 +1,1 @@
+# Keeps the cache directory in git so today.py never crashes writing here.

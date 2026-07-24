@@ -6,9 +6,6 @@ on:
     - cron: "0 0 * * *"
   # Allows manual runs from the Actions tab
   workflow_dispatch:
-  # Run on pushes to main (a GITHUB_TOKEN push won't re-trigger this)
-  push:
-    branches: ["main"]
 
 # Needed so the action can commit the updated SVGs + cache back to the repo
 permissions:
