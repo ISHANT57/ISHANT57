@@ -21,9 +21,9 @@
 
 ## 💼 Experience
 
-**Software Developer Intern** — [GoQii Technologies](https://goqii.com/in-en), Mumbai · *Jun 2026 – Aug 2026*
+**Software Developer Intern** — [GoQii Technologies](https://goqii.com/in-en), Mumbai · *Jun 2026 – Current*
 Building production healthcare software — real-time clinical transcription with SOAP-note and prescription generation, and a multi-tenant hospital management platform.
-Projects: **Goqii Transcriber**, **CareNexus**
+Projects: **Goqii Transcriber**, **CareNexus**, **GoqiiBridge**
 
 ---
 
