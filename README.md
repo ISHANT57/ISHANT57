@@ -61,7 +61,7 @@ Projects: **Goqii Transcriber**, **CareNexus**, **GoqiiBridge**
 | **AI Q&A for Sacred Texts (DharmaBot)** | Concurrent-query RAG system with Mistral embeddings + Qdrant vector search | [Demo](https://gitabot-hl2n.onrender.com/) · [Code](https://github.com/ISHANT57/Gitabot_NYD_2026) |
 | **Goqii Transcriber** | Real-time clinical transcription, SOAP notes & prescription generation | [Demo](https://goqii-transcriber-web.vercel.app/) · [Code](https://github.com/ISHANT57/Goqii-Transcriber-) |
 | **CampusBrain** | Educational RAG platform grounded in university docs with cited answers | [Demo](https://campus-brain-inky.vercel.app/sitare) · [Code](https://github.com/ISHANT57/CampusBrain) |
-| **GitHub Profile Tracker** | Developer analytics dashboard over the GitHub REST API | [Demo](https://sitare-github-tracker.onrender.com) · [Code](https://github.com/ISHANT57/Git-Tracker-) |
+| **GitHub Profile Tracker** | Developer analytics dashboard over the GitHub REST API | [Demo](https://sitare-github-tracking-system.onrender.com) · [Code](https://github.com/ISHANT57/Git-Tracker-) |
 | **CampusAgent** | Autonomous Q&A agent with RAG + semantic search and cited sources | [Demo](https://campus-agent-six.vercel.app/) · [Code](https://github.com/ISHANT57/CampusAgent) |
 | **CareNexus** | Multi-tenant healthcare platform for hospitals, clinics & patient care | [Demo](https://carenexusweb-q5ijcqplh-ishant57s-projects.vercel.app/) · [Code](https://github.com/ISHANT57/CareNexus) |
 | **AI Resume Analyzer** | Scores resumes against job descriptions and surfaces skill gaps via NLP | [Demo](https://resume-ai-frontend-8f88.onrender.com) · [Code](https://github.com/ISHANT57/Resume-Analyzer) |
